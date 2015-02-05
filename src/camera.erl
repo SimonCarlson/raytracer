@@ -61,3 +61,4 @@ ray(X, Y, Camera) ->
   {ray, Origin, Dir}.
 
 
+%BOMB
